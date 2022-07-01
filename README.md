@@ -1,6 +1,6 @@
 ## Новая схема БД SQL 
 
-![](C:\Users\Mymik\Desktop\demogit\SQL\3_Class\1.png)
+![](https://github.com/iMiktot/SQL_3_Class/blob/main/1.png)
 
 
 ## Команды SQL которые были использованы для создания БД по заданию 2.
